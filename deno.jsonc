@@ -1,0 +1,4 @@
+{
+  "name": "@tksh/group-colors-param-codec",
+  "exports": "./src/mod.ts"
+}
